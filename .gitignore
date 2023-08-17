@@ -23,6 +23,7 @@ out/
 # Ignore sensitive or environment-specific information
 config.js
 secrets.env
+data/
 
 # Ignore specific file types
 *.pdf
